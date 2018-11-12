@@ -1,0 +1,180 @@
+* {
+	font-family: "Helvetica Neue Bold", Roboto, Helvetica, Arial, sans-serif;
+	font-weight: 700;
+}
+
+body {
+        background-color: #E0D9E1;
+}
+
+h1 {
+	font-family: "Helvetica Neue Light", Roboto, Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	color: black;
+	line-height: 70px;
+	font-weight: 900;
+}
+
+h2 {
+	font-size: 24px;
+	color: #42C3C9;
+	line-height: 29px;
+}
+
+h3 {
+	font-size: 18px;
+	color: #4A4A4A;
+	line-height: 23px;
+}
+
+h4 {
+    font-family: "Helvetica Neue Light", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    color: black;
+    line-height: 70px;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+ p {
+ 	font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
+ 	font-size: 16px;
+ 	color: #7B7573;
+ 	line-height: 24px;
+ 	font-weight: 400;
+ }
+
+ strong {
+ 	font-size: 16px;
+ 	color: #7B7573;
+ 	line-height: 24px;
+ }
+
+ a {
+ 	font-size: 14px;
+ 	color: #0093B9;
+ 	line-height: 17px;
+ }
+.padding-top {
+	padding-top: 30px;
+}
+.padding-bottom {
+	padding-bottom: 30px;
+}
+.margin-right {
+	margin-right: 30px;
+}
+.padding-none {
+	padding: 0;
+}
+.btn {
+	padding: 20px;
+	margin: 0;
+	border-color: #b70b41;
+	border-width: 4px;
+	color: #b70b41;;
+}
+.btn:hover {
+	border-color: #b70b41;
+}
+.btn.delete {
+	border-color: #d48b8b;
+	color: #d48b8b;
+}
+.btn.delete:hover {
+	border-color: #d48b8b;
+	color: red;
+}
+.glyphicon {
+	margin-right: 10px;
+}
+.top-menu {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.top-menu p {
+	margin-bottom: 0;
+	line-height: 16px;
+}
+.top-menu a {
+	margin-bottom: 0;
+	line-height: 16px;
+	font-size: 16px;
+	color: #7B7573;
+	font-weight: 400;
+}
+.divider {
+	height: 25px;
+}
+.divider.blue {
+	background-color: #42C3C9;
+}
+.divider.green {
+	background-color: #b70b41;
+}
+.banner.main {
+	height: 350px;
+	background: url("/static/top-banner1.jpg");
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: cover;
+    text-align: center;
+   
+}
+.banner.menu {
+	height: 150px;
+	background-color: white;
+}
+.banner.profile {
+	height: 150px;
+    background-color: #B586BB;
+}
+.banner h1 {
+	margin: 45px 0;
+}
+ .restaurant-list {
+ 	background-color: #ECB8B8;
+ 	padding: 20px;
+u }
+ .restaurant-list:hover {
+ 	background-color: #B586BB;
+ 	padding: 20px;
+}
+.menu-item {
+	background: #ECB8B8;
+	padding: 20px;
+	margin: 20px;
+	margin-left: -20px;
+}
+.menu-price {
+	font-weight: 700;
+}
+.creator {
+	padding-right: 20px;
+	margin-top: -20px;
+	text-align: right;
+	float:right;
+}
+.creator img {
+	width: 100px;
+	border-radius: 50%;
+}
+.creator figcaption {
+	font-size: 14px;
+	color: #7B7573;
+	font-weight: 400;
+	margin-top: -20px;
+}
+.flash {
+	background-color: #98FB98;
+	width:100%;
+	text-decoration: none;
+
+}
+
+.flash li {
+	list-style-type: none;
+	text-align: center;
+
+}
